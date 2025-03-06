@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+}
+
+
+#leba{
+    background-image: url('halaTerim.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+   
+}
+.regForm{
+    color: yellow;
+    font-weight: bold;
+    font-size: 14;
+}
+.title{
+    display: block;
+    background-color: white;
+    text-align: center;
+    padding: 15px;
+    color: black;
+}
+.title:hover{
+    background-color: yellow;
+}
+.loginF{
+    color: wheat;
+    font-weight: bold;
+    font-size: 15px;
+}
+.loginF:hover{
+    color: cyan;
+}
+.submit{
+    font-weight: bold;
+}
+.submit:hover{
+    background-color: yellowgreen;
+}
+.loginForm{
+margin: 0px;
+}
+.login{
+    display: block;
+    background-color: wheat;
+    padding: 15px;
+    text-align: center;
+}
+.login:hover{
+    background-color: aquamarine;
+}
+.sign{
+font-weight: bold;
+color:cornflowerblue;
+
+}
+.signIn{
+    font-weight: bold;
+    font-size: 14px;
+}
+.signIn:hover{
+    background-color: green;
+}
+#abu35{
+    margin-left: 25px;
+}
+
+
